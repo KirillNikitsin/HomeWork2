@@ -21,20 +21,20 @@ public class HomeWork2 {
     }
     public static void positiveOrNegative(int input) {
         if(input >= 0){
-            System.out.println("число положительное");
+            System.out.println("число положительное.");
         }
         else{
-            System.out.println("число отрицательное");
+            System.out.println("число отрицательное.");
         }
 
     }
     public static boolean isNegative(int input) {
         if(input >= 0){
-            System.out.println("число положительное");
+            System.out.println("число положительное.");
             return true;
         }
         else{
-            System.out.println("число отрицательное");
+            System.out.println("число отрицательное.");
             return false;
         }
     }
